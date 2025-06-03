@@ -1,0 +1,115 @@
+body {
+  background-color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 330px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.m-auto {
+  margin: auto;
+  justify-content: center;
+}
+.w-80 {
+  width: 80%;
+}
+.nav {
+  justify-content: center;
+  align-items: center;
+  gap: 10rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: white;
+}
+.bg-home {
+  background-color: blueviolet;
+}
+.card {
+  width: 330px;
+  background-color: white;
+}
+
+.thumbnail {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.gap-sm {
+  gap: 8px;
+}
+
+.gap-big {
+  gap: 300px;
+}
+.space-between {
+  justify-content: space-between;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.border-rounded-sm {
+  border-radius: 8%;
+}
+
+.border-rounded-top-sm {
+  border-top-left-radius: 8%;
+  border-bottom-right-radius: 8%;
+}
+
+.p-sm {
+  padding: 5px;
+}
+
+.p-md {
+  padding: 10px;
+}
+
+.text-sm {
+  font-size: 12px;
+}
+
+.text-md {
+  font-size: 16px;
+}
+
+.text-lg {
+  font-size: 20px;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.text-purple {
+  color: purple;
+}
+
+.text-orange {
+  color: orange;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-blue {
+  color: darkblue;
+}
+
+bg-purple-50 {
+  background-color: rgb(118, 118, 227);
+}
